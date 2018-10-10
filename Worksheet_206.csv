@@ -1,4 +1,4 @@
-sales_fact_dec_1998.product_id,sales_fact_dec_1998.time_id,sales_fact_dec_1998.customer_id,sales_fact_dec_1998.promotion_id,sales_fact_dec_1998.store_id,sales_fact_dec_1998.store_sales,sales_fact_dec_1998.store_cost,sales_fact_dec_1998.unit_sales
+product_id,time_id,customer_id,promotion_id,store_id,store_sales,store_cost,unit_sales
 173,748,2094,54,1,4.29,1.8447,3
 1119,748,2094,54,1,9.51,3.5187,3
 1242,748,2094,54,1,7.92,2.8512,4
